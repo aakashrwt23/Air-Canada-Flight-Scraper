@@ -1,0 +1,351 @@
+{
+  "origin": "DEL",
+  "destination": "LAX",
+  "date": "2026-04-03",
+  "flights": [
+    {
+      "flightNumber": "AC43",
+      "allFlightNumbers": [
+        "AC43",
+        "AC785"
+      ],
+      "departure": "22:50",
+      "arrival": "10:25",
+      "duration": "24h 5m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 1
+    },
+    {
+      "flightNumber": "AC43",
+      "allFlightNumbers": [
+        "AC43",
+        "AC787"
+      ],
+      "departure": "22:50",
+      "arrival": "15:10",
+      "duration": "28h 50m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 1
+    },
+    {
+      "flightNumber": "AC43",
+      "allFlightNumbers": [
+        "AC43",
+        "AC787",
+        "AC791"
+      ],
+      "departure": "22:50",
+      "arrival": "19:20",
+      "duration": "33h\n",
+      "points": null,
+      "cabin": "Business",
+      "stops": 1
+    },
+    {
+      "flightNumber": "AC43",
+      "allFlightNumbers": [
+        "AC43",
+        "AC791",
+        "AC9587",
+        "AC837"
+      ],
+      "departure": "01:45",
+      "arrival": "19:20",
+      "duration": "30h 5m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC9587",
+      "allFlightNumbers": [
+        "AC9587",
+        "AC837",
+        "AC791",
+        "AC793"
+      ],
+      "departure": "01:45",
+      "arrival": "21:20",
+      "duration": "32h 5m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC9587",
+      "allFlightNumbers": [
+        "AC9587",
+        "AC837",
+        "AC793",
+        "AC6825",
+        "AC881"
+      ],
+      "departure": "01:05",
+      "arrival": "21:20",
+      "duration": "32h 45m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6825",
+      "allFlightNumbers": [
+        "AC6825",
+        "AC881",
+        "AC793",
+        "AC6451",
+        "AC865",
+        "AC777"
+      ],
+      "departure": "04:50",
+      "arrival": "20:59",
+      "duration": "28h 39m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6451",
+      "allFlightNumbers": [
+        "AC6451",
+        "AC865",
+        "AC777",
+        "AC857",
+        "AC793"
+      ],
+      "departure": "04:50",
+      "arrival": "21:20",
+      "duration": "29h\n",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6451",
+      "allFlightNumbers": [
+        "AC6451",
+        "AC857",
+        "AC793",
+        "AC861",
+        "AC550"
+      ],
+      "departure": "04:50",
+      "arrival": "21:29",
+      "duration": "29h 9m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6451",
+      "allFlightNumbers": [
+        "AC6451",
+        "AC861",
+        "AC550",
+        "AC9353",
+        "AC9101"
+      ],
+      "departure": "02:50",
+      "arrival": "21:29",
+      "duration": "31h 9m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC9353",
+      "allFlightNumbers": [
+        "AC9353",
+        "AC9101",
+        "AC550",
+        "AC6453",
+        "AC855",
+        "AC791"
+      ],
+      "departure": "00:35",
+      "arrival": "19:20",
+      "duration": "31h 15m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC9353",
+      "allFlightNumbers": [
+        "AC9353",
+        "AC9101",
+        "AC550",
+        "AC6453",
+        "AC855",
+        "AC791",
+        "AC9587",
+        "AC9433"
+      ],
+      "departure": "01:45",
+      "arrival": "21:29",
+      "duration": "32h 14m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6453",
+      "allFlightNumbers": [
+        "AC6453",
+        "AC855",
+        "AC791",
+        "AC9587",
+        "AC9433",
+        "AC550",
+        "AC867",
+        "AC777"
+      ],
+      "departure": "00:35",
+      "arrival": "20:59",
+      "duration": "32h 54m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC9587",
+      "allFlightNumbers": [
+        "AC9587",
+        "AC9433",
+        "AC550",
+        "AC6453",
+        "AC867",
+        "AC777",
+        "AC865"
+      ],
+      "departure": "00:35",
+      "arrival": "20:59",
+      "duration": "32h 54m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC9587",
+      "allFlightNumbers": [
+        "AC9587",
+        "AC9433",
+        "AC550",
+        "AC6453",
+        "AC867",
+        "AC777",
+        "AC865",
+        "AC857",
+        "AC793"
+      ],
+      "departure": "00:35",
+      "arrival": "21:20",
+      "duration": "33h 15m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6453",
+      "allFlightNumbers": [
+        "AC6453",
+        "AC867",
+        "AC777",
+        "AC865",
+        "AC857",
+        "AC793",
+        "AC855"
+      ],
+      "departure": "00:35",
+      "arrival": "21:20",
+      "duration": "33h 15m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6453",
+      "allFlightNumbers": [
+        "AC6453",
+        "AC865",
+        "AC777",
+        "AC857",
+        "AC793",
+        "AC855",
+        "AC861",
+        "AC550"
+      ],
+      "departure": "00:35",
+      "arrival": "21:29",
+      "duration": "33h 24m",
+      "points": null,
+      "cabin": "Economy",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6453",
+      "allFlightNumbers": [
+        "AC6453",
+        "AC865",
+        "AC777",
+        "AC857",
+        "AC793",
+        "AC855",
+        "AC861",
+        "AC550",
+        "AC6451",
+        "AC785"
+      ],
+      "departure": "04:50",
+      "arrival": "10:25",
+      "duration": "42h 5m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6453",
+      "allFlightNumbers": [
+        "AC6453",
+        "AC857",
+        "AC793",
+        "AC855",
+        "AC861",
+        "AC550",
+        "AC6451",
+        "AC785",
+        "AC859"
+      ],
+      "departure": "04:50",
+      "arrival": "10:25",
+      "duration": "42h 5m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    },
+    {
+      "flightNumber": "AC6453",
+      "allFlightNumbers": [
+        "AC6453",
+        "AC857",
+        "AC793",
+        "AC855",
+        "AC861",
+        "AC550",
+        "AC6451",
+        "AC785",
+        "AC859",
+        "AC9587",
+        "AC9603"
+      ],
+      "departure": "01:45",
+      "arrival": "10:25",
+      "duration": "45h 10m",
+      "points": null,
+      "cabin": "Business",
+      "stops": 2
+    }
+  ]
+}
